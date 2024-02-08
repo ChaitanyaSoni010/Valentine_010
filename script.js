@@ -12,7 +12,7 @@ var love = setInterval(function(){
 },500);
 
 var i = 0;
-var txt1 = "Hey!              >               Wish you very very Happy Birthday <<                  Socha tu itni busy hoti h <<< Toh aise wish kr deta hu                      >               A shayari for you                      >       Jam par jam pine se                             <<             kya fayda                      >        Jam par jam pine se                         << kya fayda                                 > Subah tak toh saari utar jayegi                                     > Humne aapki Aakhon se pi h                           >> Khuda kasam                                 >>> Saari umar Nashe main guzar jayegi                             > Pls thoda trust kr le    >> and I know ki kisi ne aisa wish nhi kiya hoga";
+var txt1 = "Hey!              >               Wish you very very Happy Birthday <<                  Socha tu itni busy hoti h <<< Toh aise wish kr deta hu                      >               A shayari for you                      >       Jam par jam pine se            <<             kya fayda                  >        Jam par jam pine se            << kya fayda                       <<< Subah tak toh saari utar jayegi                         > Humne aapki Aakhon se pi h                       >> Khuda ki kasam                           >>> Saari umar Nashe main guzar jayegi                             >      ME GUSTAS(SPANISH)                        >Have a Great Day Ahead Senorita";
 var speed = 50;
 typeWriter();
 function typeWriter() {
